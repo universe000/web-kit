@@ -1,3 +1,3 @@
-module github.com/aobco/web-kit
+module github.com/universe000/web-kit
 
 go 1.15
